@@ -18,10 +18,10 @@ author: Lysanne Pinto
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -44,9 +44,9 @@ round-avatar: true
 social-network-links:
   email: "lysannepinto@gmail.com"
   github: lysannep
-  twitter: Lpintooo
+  linkedin: lysanne-pinto-3a8a7a106
+#  twitter: Lpintooo
 #  reddit: yourname
-#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
