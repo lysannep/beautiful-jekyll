@@ -9,7 +9,7 @@ url: lysannep.github.io/beautiful-jekyll
 baseurl: /beautiful-jekyll
 
 # Name of website
-title: My Website
+title: Lysanne's Website
 
 # Your name to show in the footer
 author: Lysanne Pinto
@@ -43,9 +43,8 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "lysannepinto@gmail.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  github: lysannep
+  twitter: Lpintooo
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
