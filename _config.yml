@@ -18,7 +18,7 @@ author: Lysanne Pinto
 
 navbar-links:
   About Me: "aboutme"
-  Hire Me: "LysannePinto_resume"
+  Hire Me: "https://nbviewer.jupyter.org/github/lysannep/beautiful-jekyll/blob/master/LysannePinto_resume.pdf"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
