@@ -8,4 +8,4 @@ subtitle: Hello! 👋 I'm Lysanne Pinto
    
 ☁️ Currently writing for [Snow Software](https://www.snowsoftware.com)'s cloud management solution.
  
-🌱 Learning how to implement docs-as-code solutions and researching API documentation.
+🌱 Learning how to implement docs-as-code solutions.
