@@ -5,7 +5,7 @@
 
 # --- Required options --- #
 
-url: lysannep.github.io/my-website
+url: lysannep.github.io
 baseurl: /my-website
 
 # Name of website
@@ -31,7 +31,7 @@ navbar-links:
 avatar: "/assets/img/screenshot_profile.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -66,7 +66,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
@@ -85,10 +85,10 @@ share-links-active:
 excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: true
+feed_show_excerpt: false
 
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
+feed_show_tags: false
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "technical writer,lysanne pinto"
