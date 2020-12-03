@@ -1,0 +1,27 @@
+# App Settings
+Use the following settings to customize your view of current weather forecast data: 
+
+**App settings**
+* **Units**: Temperature is available in _imperial_ (℉, mph, in) _metric_ (℃, km/h, mm) and _hybrid_ (℃, mph, mm) units. _Imperial_ is the default. 
+* **Wind Direction**: Wind direction is available in _cardinal_ (or compass) direction or in _degrees_ (0°-360°). _Cardinal_ is the default.
+* **Time Format**: Time is available in _12 hour_ or _24 hour_ format. _12 hour_ is the default.
+* **Display Mode**: Display is available in _light_, _dark_, and _black_ modes. _Light_ is the default.
+
+**Device settings**
+* **Use Device Settings**: Use the display mode that you have currently set in your device's display settings, which takes precedence over the app's Display Mode setting. 
+* **Manage Notifications**: Specify the types of notifications that you want to receive for your location settings. Includes settings for a persistent notification that always appears on your device's home screen, and government issued alerts. By default, all notifications are turned on for your current location.
+* **Location Access**: Specify whether the app has permission to access your device's current location.
+* **Default Location**: Specify the default location for which to display forecast data. You can use your current location or add other favorite locations.
+* **Privacy Settings**: Specify how AccuWeather can use your device's data, which includes overall product improvements and other uses. By default, these settings are turned on. 
+Note: Unless you specify otherwise, AccuWeather will not sell your info. For more information about AccuWeather's privacy policy, see [link to Privacy Statement].
+
+## Customize App Settings
+To customize the default settings for your AccuWeather mobile app:
+1. Click the menu on the top-left corner.
+2. In the menu, click **Settings**.
+3. Change the settings based on your preferences. 
+_______________________________________________________________________________________
+# Questions for the team
+1. Can you confirm the default settings listed above?
+2. With regards to naming, is it accurate to describe the second half of the settings as "Device settings"? 
+3. In the Android app, there's no difference between the Dark and Black display modes. Is that intended?
