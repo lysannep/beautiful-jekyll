@@ -10,15 +10,9 @@ jobs:
       BUNDLE_PATH: ~/repo/vendor/bundle
     steps:
       - checkout
-      - restore_cache:
-          keys:
-            - rubygems-v1-fallback
       - run:
           name: Bundle Install
           command: bundle check || bundle install
-      - save_cache:
-          paths:
-            - vendor/bundle
       - run:
           name: Jekyll build
           command: bundle exec jekyll build
