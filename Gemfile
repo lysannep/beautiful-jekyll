@@ -5,3 +5,4 @@ ruby '2.4.3'
 
 gem 'jekyll'
 gem 'jekyll-paginate'
+gem 'jekyll-sitemap'
